@@ -2,7 +2,7 @@ import setuptools
 long_description = "Test Package"
 
 setuptools.setup(
-   name="pypi",
+   name="factly",
    version="0.0.1",
    author="lwpro2",
    author_email="lwpro2",
